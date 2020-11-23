@@ -1,0 +1,9 @@
+[submodule "software-smart-gaz-detector"]
+	path = software-smart-gaz-detector
+	url = https://github.com/lucasbacle/software-smart-gaz-detector.git
+[submodule "hardware-smart-gaz-detector"]
+	path = hardware-smart-gaz-detector
+	url = https://github.com/lucasbacle/hardware-smart-gaz-detector.git
+[submodule "SmartGasSensor"]
+	path = SmartGasSensor
+	url = https://github.com/ClemG1/SmartGasSensor.git
