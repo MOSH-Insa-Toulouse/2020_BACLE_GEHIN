@@ -1,0 +1,6 @@
+[submodule "web-smart-gaz-detector"]
+	path = web-smart-gaz-detector
+	url = https://github.com/ClemG1/web-smart-gaz-detector
+[submodule "hardware-smart-gaz-detector"]
+	path = hardware-smart-gaz-detector
+	url = https://github.com/lucasbacle/hardware-smart-gaz-detector
